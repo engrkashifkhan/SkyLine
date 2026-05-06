@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "gallery": "Gallery",
+    "resources": "Resources",
+    "capabilities": "Capabilities",
+    "safety": "Safety",
+    "certifications": "Certifications",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "COMPANY PROFILE",
+    "year": "2026",
+    "vision": "VISION"
+  },
+  "about": {
+    "title": "Who We Are",
+    "heading": "Driving Excellence in Infrastructure",
+    "description": "Sky Line New Establishment, founded in 2024, is a Saudi-based company specializing in construction, telecommunications, and support services. We deliver high-quality infrastructure solutions aligned with Vision 2030."
+  },
+  "services": {
+    "sectionTitle": "Our Services",
+    "list": [
+      {
+        "title": "Construction",
+        "items": [
+          "Residential & Commercial Buildings",
+          "Industrial Projects",
+          "Project Management",
+          "Maintenance & Renovation"
+        ]
+      },
+      {
+        "title": "Telecommunication",
+        "items": [
+          "Fiber Optics (FTTH / FTTx)",
+          "Network Deployment & Expansion",
+          "Telecom Infrastructure",
+          "5G & Smart City Integration"
+        ]
+      },
+      {
+        "title": "Manpower & Support",
+        "items": [
+          "Skilled Labor Supply",
+          "Equipment Rental",
+          "Camp Accommodation",
+          "Catering Services"
+        ]
+      }
+    ]
+  },
+  "capabilities": {
+    "sectionTitle": "Our Capabilities",
+    "items": [
+      "Hospitals",
+      "Schools",
+      "Commercial",
+      "Industrial",
+      "Telecom"
+    ]
+  },
+  "safety": {
+    "sectionTitle": "Safety & Quality",
+    "subtitle": "Our Commitment to Excellence",
+    "description": "At Sky Line, safety is not just a policy—it is a core value. We ensure the highest standards of occupational health and safety across all our projects.",
+    "policies": [
+      "Commitment to the highest safety standards",
+      "Full compliance with industry regulations and codes",
+      "Regular safety training and awareness programs",
+      "Provision of personal protective equipment (PPE)",
+      "Continuous monitoring and risk prevention measures"
+    ]
+  },
+  "certifications": {
+    "sectionTitle": "Certifications & Compliance",
+    "cr": "Commercial Registration (CR)",
+    "tax": "Tax Certificate",
+    "zakat": "Zakat Certificate",
+    "gosi": "GOSI Registration",
+    "saudization": "Saudization Certificate",
+    "chamber": "Chamber of Commerce",
+    "iban": "IBAN Letter"
+  },
+  "contact": {
+    "sectionTitle": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "description": "Ready to start your next infrastructure project? Contact our team of experts today.",
+    "phoneLabel": "Phone Number",
+    "emailLabel": "Email Address",
+    "officeLabel": "Office Location",
+    "officeLocation": "Riyadh, Kingdom of Saudi Arabia",
+    "businessHours": "Business Hours",
+    "hours": "Sunday - Thursday: 8:00 AM - 5:00 PM",
+    "form": {
+      "title": "Send us a message",
+      "fullName": "Full Name",
+      "namePlaceholder": "Your name",
+      "phone": "Phone",
+      "phonePlaceholder": "Your phone",
+      "email": "Email",
+      "emailPlaceholder": "Your email",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message"
+    },
+    "footer": {
+      "tagline": "Infrastructure Solutions Aligned with Vision 2030",
+      "copyright": "© 2026 Sky Line New Establishment. All rights reserved.",
+      "country": "Kingdom of Saudi Arabia"
+    }
+  },
+  "resources": {
+    "sectionTitle": "Equipment & Resources",
+    "equipment": "Heavy Equipment",
+    "vehicles": "Vehicles",
+    "manpower": "Manpower",
+    "equipmentList": ["Excavators", "Cranes", "Loaders", "Generators"],
+    "vehiclesList": ["Trucks", "Pickups", "Services Buses"],
+    "manpowerList": ["Civil Engineers", "Electrical Engineers", "Mechanical Team", "Technicians", "Skilled Labor"]
+  },
+  "gallery": {
+    "sectionTitle": "Project Gallery",
+    "description": "A glimpse into our diverse projects across construction, telecommunications, and support services throughout the Kingdom.",
+    "viewAll": "View All",
+    "categories": {
+      "all": "All",
+      "construction": "Construction",
+      "telecom": "Telecom"
+    }
+  }
+}
