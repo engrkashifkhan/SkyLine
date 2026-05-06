@@ -115,14 +115,14 @@ const Navbar = () => {
             </a>
           ))}
           <div className="pt-4 border-t flex flex-col gap-3">
-            <a href={`tel:${companyInfo.phone}`} className="flex items-center gap-3 px-3 py-2 text-slate-600">
+            {/* <a href={`tel:${companyInfo.phone}`} className="flex items-center gap-3 px-3 py-2 text-slate-600">
               <Phone size={18} className="text-primary" />
               <span dir="ltr">{companyInfo.phone}</span>
-            </a>
-            <a href={`mailto:${companyInfo.email}`} className="flex items-center gap-3 px-3 py-2 text-slate-600">
+            </a> */}
+            {/* <a href={`mailto:${companyInfo.email}`} className="flex items-center gap-3 px-3 py-2 text-slate-600">
               <Mail size={18} className="text-primary" />
               <span>{companyInfo.email}</span>
-            </a>
+            </a> */}
             <button
               onClick={() => {
                 toggleLanguage();
