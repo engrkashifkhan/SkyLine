@@ -99,7 +99,7 @@ const Navbar = () => {
       {/* Mobile Menu */}
       <div
         className={cn(
-          'md:hidden absolute top-full left-0 w-full bg-white shadow-xl transition-all duration-300 overflow-hidden',
+          'lg:hidden absolute top-full left-0 w-full bg-white shadow-xl transition-all duration-300 overflow-hidden',
           isOpen ? 'max-h-screen opacity-100 border-t' : 'max-h-0 opacity-0'
         )}
       >
@@ -128,7 +128,7 @@ const Navbar = () => {
                 toggleLanguage();
                 setIsOpen(false);
               }}
-              className="flex items-center justify-center gap-2 mt-2 px-3 py-2 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition-colors"
+              className="flex items-center justify-center gap-2 pb-16 mt-2 px-3 py-2 bg-slate-100 text-slate-700 rounded-lg font-medium hover:bg-slate-200 transition-colors"
             >
               <Globe size={18} />
               {i18n.language === 'en' ? 'Switch to Arabic' : 'التبديل إلى الإنجليزية'}
